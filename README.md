@@ -17,16 +17,19 @@ Enrico Franconi and Terry Halpin. ORM abstract syntax and semantics: non-normati
 
 Enrico Franconi and Terry Halpin. ORM abstract syntax and semantics: normative specification. Technical report, https://gitlab.com/orm-syntax-and-semantics/orm-syntax-and-semantics-docs, 2020.
 
-`@techreport{franconi-halpin-glossary-2020,`
-	`author = {Enrico Franconi and Terry Halpin},`
-	`institution = {https://gitlab.com/orm-syntax-and-semantics/orm-syntax-and-semantics-docs},`
-	`title = {{ORM} abstract syntax and semantics: non-normative glossary},`
-	`url = {https://gitlab.com/orm-syntax-and-semantics/orm-syntax-and-semantics-docs},`
-	`year = {2020}}`
+```
+@techreport{franconi-halpin-glossary-2020,
+	author = {Enrico Franconi and Terry Halpin},
+	institution = {https://gitlab.com/orm-syntax-and-semantics/orm-syntax-and-semantics-docs},
+	title = {{ORM} abstract syntax and semantics: non-normative glossary},
+	url = {https://gitlab.com/orm-syntax-and-semantics/orm-syntax-and-semantics-docs},
+	year = {2020}}
 
-`@techreport{franconi-halpin-spec-2020,`
-	`author = {Enrico Franconi and Terry Halpin},`
-	`institution = {https://gitlab.com/orm-syntax-and-semantics/orm-syntax-and-semantics-docs},`
-	`title = {{ORM} Abstract Syntax and Semantics: normative specification},`
-	`url = {https://gitlab.com/orm-syntax-and-semantics/orm-syntax-and-semantics-docs},`
-	`year = {2020}}`
+@techreport{franconi-halpin-spec-2020,
+	author = {Enrico Franconi and Terry Halpin},
+	institution = {https://gitlab.com/orm-syntax-and-semantics/orm-syntax-and-semantics-docs},
+	title = {{ORM} Abstract Syntax and Semantics: normative specification},
+	url = {https://gitlab.com/orm-syntax-and-semantics/orm-syntax-and-semantics-docs},
+	year = {2020}}
+```
+
