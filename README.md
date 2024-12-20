@@ -1,5 +1,7 @@
 # ORM Normative Abstract Syntax and Semantics
 by Enrico Franconi & Terry Halpin
+Contributors to Public Beta 3: Jan Hidders, Alessandro Mosca, Francesco Sportelli
+Contributors to Draft 4: Clifford Heath
 
 Object-Role Modeling (ORM) is a rigorous approach to modeling and querying at the conceptual level the information semantics of arbitrary domains. 
 
